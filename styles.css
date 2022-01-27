@@ -610,7 +610,9 @@
     position: absolute;
     bottom: 5px;
     width: 100%;
-    height: 300px;
+    /* height: 300px; */
+    /* add back when footer is included */
+    height: 75px;
 }
 
 #footer__logo {
