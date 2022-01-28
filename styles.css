@@ -13,7 +13,7 @@
 }
 
 #content-wrap {
-    padding-bottom: auto;
+    padding-bottom: 100px;
     margin: auto;
 }
 
@@ -401,7 +401,7 @@
     flex-direction: column;
     align-items: center;
     min-height: 800px;
-    padding-bottom: 300px;
+    padding-bottom: 200px;
     
 }
 
