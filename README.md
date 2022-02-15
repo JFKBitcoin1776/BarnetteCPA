@@ -13,22 +13,22 @@ Currently do not know final images planned for the cards.
 ### *Tax - Wealth - Preparers - Community*
 
 <h3> Tax </h3>
-- Individual/Family      
+- Individual/Family  <br>    
 - Business              
           
 <h3> Wealth </h3>    
-- Crypto
-- Investing
-- Estates
+- Crypto <br>
+- Investing <br>
+- Estates <br>
 - High Net Worth
           
 <h3> Preparers </h3> 
-- Business 
+- Business <br>
 - Family 
           
 <h3> Community </h3>
-- Queue of Work in Progress
-- Tax Prep Forms
+- Queue of Work in Progress <br>
+- Tax Prep Forms <br>
 - About / contact info
           
          
