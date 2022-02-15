@@ -32,5 +32,7 @@ Currently do not know final images planned for the cards.
 - About / contact info
           
          
+ # Notes
+ 
  
 
